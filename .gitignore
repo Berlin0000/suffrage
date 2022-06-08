@@ -1,0 +1,4 @@
+secrets.json
+migrations/
+cache/
+node_modules/

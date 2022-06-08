@@ -1,0 +1,34 @@
+{
+  "name": "suffrage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Berlin0000/suffrage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Berlin0000/suffrage/issues"
+  },
+  "homepage": "https://github.com/Berlin0000/suffrage#readme",
+  "dependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.0.4",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts-upgradeable": "^4.6.0",
+    "@openzeppelin/hardhat-upgrades": "^1.18.1",
+    "hardhat": "^2.9.7"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.8"
+  }
+}
